@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-This Project is created using React and Tailwind CSS.
+'This Project is created using React and Tailwind CSS.
+'
 
 ## Getting Started
 
